@@ -27,8 +27,6 @@ public class ElementWhichappearOnetime {
 				
 					
 				}
-
-
 			
 		    }
 			for(int f=0;f<val.length;f++)
@@ -49,13 +47,13 @@ public class ElementWhichappearOnetime {
 				
 			}
 			
-			}
-			
 		}
+			
+	}
 		
 		
 		
 
-	}
+}
 
 
